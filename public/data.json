@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5074caa5-75e5-4987-9a23-d0a07fbf05de",
+    "title": "Lunges",
+    "descr": "Start by standing straight, with your feet slightly wider than shoulder-width apart.",
+    "age": "20-25",
+    "time": 30,
+    "img": "https://img.freepik.com/free-photo/athletic-man-with-face-mask-having-weight-training-lunge-position-gym_637285-8589.jpg?w=900&t=st=1665076596~exp=1665077196~hmac=1106394db7ec9c5e14c8e1949df301f04cf92d10a047fe0787795e6b4ad7c64a"
+  },
+  {
+    "id": "df6146dd-e5f3-4c69-a3f4-f21824014010",
+    "title": "Pushups",
+    "descr": "Bend your elbows and begin to lower your body down to the floor. When your chest grazes it,",
+    "age": "15-25",
+    "time": 35,
+    "img": "https://imgk.timesnownews.com/story/push-ups.gif"
+  },
+  {
+    "id": "3bde4009-475a-487d-9282-cf6342cf0093",
+    "title": "Squats",
+    "descr": "Squats increase lower body and core strength, as well as flexibility in your lower back and hips.",
+    "age": "25-30",
+    "time": 40,
+    "img": "https://static.india.com/wp-content/uploads/2017/04/Squats1.jpg?impolicy=Medium_Resize&w=1200&h=800"
+  },
+  {
+    "id": "feeed989-60e5-4449-8f0c-0aa5fcba2dcf",
+    "title": "Side planks",
+    "descr": "A healthy body requires a strong core at its foundation, so don’t neglect core-specific.",
+    "age": "20-30",
+    "time": 25,
+    "img": "https://images.ctfassets.net/3s5io6mnxfqz/7oifPKmAQ5GhrY1aPSD4zZ/2562201638514ec6966c33e564e4ef05/MasterClassSEO_Side_Plank_HERO.jpg"
+  },
+  {
+    "id": "b180ba07-8b73-4daa-85d6-cfd969c44066",
+    "title": "Glute bridge",
+    "descr": "Pushing through your heels, raise your hips off the ground by squeezing your core,",
+    "age": "22-30",
+    "time": 60,
+    "img": "https://i.ytimg.com/vi/Ik46XLy9NS8/maxresdefault.jpg"
+  },
+  {
+    "id": "4c2ace06-e850-4ad1-88aa-48e9ee6e7ba1",
+    "title": "Burpees",
+    "descr": "With your hands out in front of you, start to squat down.Amet minim mollit non deserunt ",
+    "age": "18-35",
+    "time": 45,
+    "img": "https://i0.wp.com/www.thebioneer.com/wp-content/uploads/2019/12/Renegade-Row.jpg?resize=595%2C301&ssl=1"
+  }
+]

@@ -1,5 +1,14 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+.App{
+    width: 1270px;
+    margin: auto;
+}
+
+div#root {
+  background: #f4f4f4;
 }
 
 .App-logo {

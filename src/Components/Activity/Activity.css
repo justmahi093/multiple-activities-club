@@ -1,0 +1,48 @@
+.activity-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 22px 22px;
+    margin-top: 70px;
+}
+.activity {
+    background: #fff;
+    width: 250px;
+    padding-left: 17px;
+    border-radius: 8px;
+    padding-bottom: 25px;
+}
+
+.activity img {
+    width: 236px;
+    height: 147px;
+    border-radius: 8px;
+    margin-top: 11px;
+}
+
+.activity h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+}
+
+.activity p {
+    color: gray;
+    line-height: 24px;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+.activity span {
+    color: #222;
+    font-size: 16px;
+}
+
+.activity button {
+    margin-top: 13px;
+    padding: 10px 75px;
+    background: #14438F;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 7px;
+}

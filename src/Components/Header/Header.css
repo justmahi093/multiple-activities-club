@@ -1,0 +1,17 @@
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    width: 150px;
+    height: auto;
+}
+
+.header h2 {
+    color: #14438F;
+    text-transform: uppercase;
+    word-spacing: 4px;
+    letter-spacing: -1px;
+}
